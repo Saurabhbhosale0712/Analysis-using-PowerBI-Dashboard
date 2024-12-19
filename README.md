@@ -1,7 +1,29 @@
-# Analysis-using-PowerBI-Dashboard
-Dashboard: Analysis using Myntra sales Dataset Dashboard,  This Power BI dashboard provides a comprehensive analysis of Myntra’s fashion products, focusing on key areas that drive customer satisfaction and business growth.
+📊 Power BI Dashboard: Myntra Fashion Products Analysis
+This interactive dashboard provides a detailed analysis of Myntra’s fashion products, offering insights into pricing, customer preferences, and brand performance.
+
+Highlights:
+Comparison of Pricing Trends:
+
+Visualize the average original prices vs. discounts across various brands.
+Category Breakdown:
+
+Explore the distribution of reviews and ratings across fashion categories, helping identify top-performing segments.
+Gender-Based Analysis:
+
+Understand preferences with gender-based product category segmentation.
+Brand Insights:
+
+Identify popular brands by the count of customer ratings and their distribution.
+Interactive Visuals:
+
+Engaging visualizations with a sleek design for seamless data interpretation.
+Tools & Technologies:
+Power BI for visualization.
+Dataset: Myntra sales data.
+Let me know your thoughts or suggestions! 🌟
+👀  
 ![Screenshot 2024-12-19 121616](https://github.com/user-attachments/assets/24ab5983-77c6-45b6-860e-eceb59c59547)
-![image](https://github.com/user-attachments/assets/cb516956-0367-41a0-87c8-19674e086683)
+
 
 ;:::
 :::
