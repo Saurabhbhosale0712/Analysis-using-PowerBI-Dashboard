@@ -7,23 +7,23 @@ Highlights:
 
 ✔️Comparison of Pricing Trends:
 
-    Visualize the average original prices vs. discounts across various brands.
+Visualize the average original prices vs. discounts across various brands.
 
 ✔️Category Breakdown:
 
-    Explore the distribution of reviews and ratings across fashion categories, helping identify top-performing segments.
+Explore the distribution of reviews and ratings across fashion categories, helping identify top-performing segments.
 
 ✔️Gender-Based Analysis:
 
-    Understand preferences with gender-based product category segmentation.
+Understand preferences with gender-based product category segmentation.
 
 ✔️Brand Insights:
 
-    Identify popular brands by the count of customer ratings and their distribution.
+Identify popular brands by the count of customer ratings and their distribution.
 
 ✔️Interactive Visuals:
 
-    Engaging visualizations with a sleek design for seamless data interpretation.
+Engaging visualizations with a sleek design for seamless data interpretation.
 
 Tools & Technologies:
 
